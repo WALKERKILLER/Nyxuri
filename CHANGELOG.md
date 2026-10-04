@@ -7,6 +7,9 @@
 
 ## [Unreleased]
 
+### Added
+- 新增划词翻译：`Alt+E` 在指针下方弹出 Material 3 译文浮窗，多渠道并行翻译；星环 System Tools 新增 Translate 入口打开渠道设置
+
 ## [v3.1.0] - 2026-09-26
 
 > 这是 3.x 系列的最后一个过渡版本。下个版本将正式迎来自研桌面外壳 Nyxuri Shell，并依然完整保留对 Noctalia V5 的双轨支持与自由切换。

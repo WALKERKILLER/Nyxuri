@@ -35,6 +35,7 @@ depends=(
   'tmux'
   'ttf-jetbrains-mono'
   'ttf-jetbrains-mono-nerd'
+  'wl-clipboard'
   'wlsunset'
   'xdg-desktop-portal'
 )
